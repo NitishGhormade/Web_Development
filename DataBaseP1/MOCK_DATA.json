@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "first_name": "Rhodie",
+        "last_name": "Pyburn",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Glynn",
+        "last_name": "Garretts",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Dennis",
+        "last_name": "Clerke",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Olive",
+        "last_name": "Gibb",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Deena",
+        "last_name": "Gajownik",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Jodie",
+        "last_name": "Auchterlony",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Lemmie",
+        "last_name": "Bossingham",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Kattie",
+        "last_name": "Jiruch",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Tami",
+        "last_name": "Eringey",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Cristin",
+        "last_name": "Westraw",
+        "gender": "Female"
+    },
+    {
+        "id": 11,
+        "first_name": "Hitesh",
+        "last_name": "Ghormade",
+        "gender": "Male"
+    },
+    {
+        "id": 12,
+        "first_name": "Mallinga",
+        "last_name": "Biden",
+        "gender": "Male"
+    }
+]
