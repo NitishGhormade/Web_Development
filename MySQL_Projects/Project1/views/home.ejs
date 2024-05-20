@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Users</title>
+</head>
+<body>
+    <% if (locals.allResults) { %>
+        <table border="1" width="25%">
+            <tr>
+                <th>id</th>
+                <th>usersname</th>
+                <th>password</th>
+                <th>Action</th>
+            </tr>
+            <% allResults.forEach((val) => { %>
+                <tr>
+                    <td> <%= val.id %> </td>
+                    <td> <%= val.username %> </td>
+                    <td> <%= val.password %> </td>
+                    <td> 
+                        <a href="/deleteUser?id=<%= val.id %>">Delete</a>
+                        <a href="/updateUser?id=<%= val.id %>">Update</a>
+                    </td>
+                </tr>
+            <% }) %>
+        </table>
+    <% } %>
+</body>
+</html>
